@@ -1,5 +1,5 @@
 {
-  "headers": [aaaaaa
+  "headers": [
     {
       "source": "/assets/(.*)",
       "headers": [
@@ -49,7 +49,6 @@
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "https://uomczvpsoltvnlhtwxrt.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_e1geV4-42ECIyL3gApwKTQ_xaUg47ll",
-    "SUPABASE_SERVICE_ROLE_KEY": "sb_secret_12Lp7RG4rLd-lMDNRhC6HQ_6sYlq-XO",
     "VITE_SUPABASE_URL": "https://uomczvpsoltvnlhtwxrt.supabase.co",
     "VITE_SUPABASE_ANON_KEY": "sb_publishable_e1geV4-42ECIyL3gApwKTQ_xaUg47ll",
     "VITE_GOOGLE_CLIENT_ID": "1065078894672-rmp5kp8vfjns5rn9kp5psfp16g691043.apps.googleusercontent.com",
